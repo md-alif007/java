@@ -1,3 +1,8 @@
+// Take an array of 10 integers.
+// Use a loop to search for a specific number in the array.
+// If the number is found, print its index and break the loop immediately.
+// If the number is not found, the loop should complete without interruption.
+
 import java.util.Scanner;
 
 public class arrayIndex {
